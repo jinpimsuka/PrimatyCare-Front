@@ -1,0 +1,9 @@
+[{"ID_NUM":1,"Cid":"6345573453781","Title":"Dr","Name":"ภูริณัฐ วีระโชติ", "Address ":"2748 Cordelia Crossing","Tambon":"ธารน้ำกรณ์","Amphur":"เมืองเชียงราย","Dead":false,"Birthdate":"14/03/2021","TEL":"255-59-4907","TY_Area":1},
+{"ID_NUM":2,"Cid":"5905468089885","Title":"Mr","Name":"เปรมา ไกรรอด", "Address ":"6394 Mallard Street","Tambon":"แม่กรณ์","Amphur":"เวียง","Dead":true,"Birthdate":"20/02/2018","TEL":"373-68-5373","TY_Area":1},
+{"ID_NUM":3,"Cid":"5790419860015","Title":"Ms","Name":"นาถินี ตรีวุฒิ", "Address ":"3864 Kropf Court","Tambon":"รอยพระพุทธบาท","Amphur":"เมืองเชียงราย","Dead":true,"Birthdate":"21/09/2020","TEL":"780-35-7537","TY_Area":3},
+{"ID_NUM":4,"Cid":"7697252668331","Title":"Dr","Name":"ณธายุ ศรีทอง", "Address ":"5 Oneill Point","Tambon":"รอยพระพุทธบาท","Amphur":"รอบเวียง","Dead":false,"Birthdate":"20/03/2018","TEL":"381-72-4587","TY_Area":4},
+{"ID_NUM":5,"Cid":"9169759735027","Title":"Ms","Name":"ณัฐกานต์ เกียรติสกุล", "Address ":"85467 East Drive","Tambon":"แม่กรณ์","Amphur":"บ้านดู่","Dead":true,"Birthdate":"13/06/2020","TEL":"788-72-9485","TY_Area":3},
+{"ID_NUM":6,"Cid":"4737406284523","Title":"Mrs","Name":"ธนาบดี รัตนเศรษฐา", "Address ":"35334 Dwight Road","Tambon":"ดอยเขาควาย","Amphur":"แม่ข้าวต้ม","Dead":false,"Birthdate":"13/04/2020","TEL":"505-92-5464","TY_Area":1},
+{"ID_NUM":7,"Cid":"3287695922326","Title":"Honorable","Name":"ตฤณ สิงห์ขาว", "Address ":"36348 Sage Lane","Tambon":"ธารน้ำกรณ์","Amphur":"แม่ข้าวต้ม","Dead":true,"Birthdate":"08/06/2021","TEL":"366-75-0582","TY_Area":2},
+{"ID_NUM":8,"Cid":"8714027391747","Title":"Rev","Name":"ปาณิศา ก้องวัฒนะกุล", "Address ":"636 Upham Lane","Tambon":"ริมน้ำกก","Amphur":"แม่ยาว","Dead":true,"Birthdate":"14/12/2019","TEL":"155-34-2950","TY_Area":2},
+{"ID_NUM":9,"Cid":"4453103653980","Title":"Dr","Name":"ปัณฑา ตรีพงศ์สกุล", "Address ":"43903 Delaware Pass","Tambon":"ริมน้ำกก","Amphur":"นางแล","Dead":true,"Birthdate":"19/03/2021","TEL":"485-26-8333","TY_Area":1}]
